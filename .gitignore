@@ -1,8 +1,6 @@
 /vendor/
 /.idea/
-/log/*
-/config.php
-composer.phar
+composer.lock
 .DS_Store
 Thumbs.db
 *.swp
