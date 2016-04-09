@@ -31,7 +31,7 @@ Modify require directive in ``composer.json``.
 ```
 
 ### 2, Load ``vendor/autoload.php`` file
-Please add ``require "vendor/autoload.php""`` in your php file.
+Please add ``require "vendor/autoload.php"`` in your php file.
 
 ### 3, Use ``JSON5`` class
 Example
