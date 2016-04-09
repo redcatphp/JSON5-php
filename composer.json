@@ -1,5 +1,5 @@
 {
-  "name": "Hiroto-K/JSON5-php",
+  "name": "hiroto-k/json5-php",
   "version": "0.0.1",
   "description": "JSON5 parser for PHP",
   "keywords": ["JSON5", "PHP"],
