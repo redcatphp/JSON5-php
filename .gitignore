@@ -1,0 +1,11 @@
+/vendor/
+/.idea/
+/log/*
+/config.php
+composer.phar
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.php-version
+!.gitkeep
