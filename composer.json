@@ -4,7 +4,7 @@
   "description": "JSON5 parser for PHP",
   "keywords": ["JSON5", "PHP"],
   "license": "MIT",
-  "type": "project",
+  "type": "library",
   "authors": [
     {
       "name": "Hiroto-K",
