@@ -1,11 +1,11 @@
 <?php
 
-namespace HirotoK\JSON5\Parser;
+namespace HirotoK\JSON5;
 
 /**
  * Class Parser
  *
- * @package HirotoK\JSON5\Parser
+ * @package HirotoK\JSON5
  */
 class Parser {
 

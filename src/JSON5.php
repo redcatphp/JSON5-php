@@ -2,7 +2,6 @@
 
 namespace HirotoK\JSON5;
 
-use HirotoK\JSON5\Parser\Parser;
 use HirotoK\JSON5\Exception\RuntimeException;
 use SplFileObject;
 

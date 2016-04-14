@@ -1,15 +1,14 @@
 <?php
 
-namespace HirotoK\JSON5\Tests\Parser;
+namespace HirotoK\JSON5\Tests;
 
-use HirotoK\JSON5\Tests\Base;
-use HirotoK\JSON5\Parser\Parser;
+use HirotoK\JSON5\Parser;
 use stdClass;
 
 /**
  * Class ParserTest
  *
- * @package HirotoK\JSON5\Tests\Parser
+ * @package HirotoK\JSON5\Tests
  */
 class ParserTest extends Base {
 
